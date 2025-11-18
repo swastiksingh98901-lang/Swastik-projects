@@ -37,9 +37,27 @@ project_05.py
 Purpose: Analyze daily temperature data for statistical and pattern insights.
 Features: hottest/coldest day, average temperature, days above average, categorize temps (cold/mild/warm), detect longest hot streak, detect anomalies (>5°F change).
 
-
 project_05.1.py
 
 Purpose: A variant/extension of project_05.py with similar temperature analysis and additional outputs such as day indices for hottest/coldest and anomaly lists.
 Features: same categories, longest streak detection, anomalies reported by day number, and a clear statistical summary printout.
+
+Python Calculator with History
+
+This is a simple command-line calculator built using Python that performs basic arithmetic operations—addition, subtraction, multiplication, and division. What sets it apart is its built-in calculation history feature, which records each operation performed during the session. Users can view their past calculations at any time, making it a handy tool for quick math with a memory.
+
+ Features:
+ 
+- Interactive menu-driven interface
+- Supports addition, subtraction, multiplication, and division
+- Handles division by zero gracefully
+- Maintains a session-based history of all calculations
+- Option to view and review past operations
+- 
+ Ideal For:
+
+- Beginners learning Python and control flow
+- Practicing function creation and user input handling
+- Building foundational command-line tools
+
 
