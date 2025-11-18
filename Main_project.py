@@ -1,3 +1,4 @@
+#Calculator with history
 history = []
 
 def add(x, y):
@@ -57,5 +58,6 @@ def calculator():
                 print("Result:", divide(num1, num2))
         else:
             print("Invalid choice. Please select a valid option.")
+
 
 calculator()
