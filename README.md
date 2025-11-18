@@ -1,9 +1,15 @@
 Project Title: Collection of Python Projects
+
 Author: Swastik Singh
+
 Roll No: 70
+
 University Roll No: 1250258471
+
 Phone.No: 8917789182
+
 Email ID: swastiksingh98901@bbdu.ac.in
+
 Summary: This repository contains a set of small Python programs (assignments) demonstrating list manipulation, data processing, and basic Python programming techniques. Each file is a standalone script that performs a specific task and can be run directly with Python.
 
 project_01.py
